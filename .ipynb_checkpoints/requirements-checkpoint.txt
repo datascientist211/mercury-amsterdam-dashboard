@@ -1,0 +1,10 @@
+mljar-mercury
+pandas
+numpy
+matplotlib
+folium
+geopandas
+shapely
+plotly
+ipython
+branca
