@@ -8,3 +8,5 @@ shapely
 plotly
 ipython
 branca
+seaborn
+circlify
